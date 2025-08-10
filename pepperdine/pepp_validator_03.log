@@ -1,0 +1,22 @@
+/Users/kjaladi/Desktop/Class of 2029/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+Processed 10 emails; valid so far: 1
+Processed 20 emails; valid so far: 2
+Processed 30 emails; valid so far: 4
+Processed 40 emails; valid so far: 6
+Processed 50 emails; valid so far: 7
+Processed 60 emails; valid so far: 9
+Processed 70 emails; valid so far: 10
+Processed 80 emails; valid so far: 12
+Processed 90 emails; valid so far: 12
+Processed 100 emails; valid so far: 13
+Processed 110 emails; valid so far: 13
+Processed 120 emails; valid so far: 13
+Processed 130 emails; valid so far: 13
+Processed 140 emails; valid so far: 13
+Processed 150 emails; valid so far: 13
+Processed 160 emails; valid so far: 13
+Processed 170 emails; valid so far: 13
+Processed 180 emails; valid so far: 13
+Processed 190 emails; valid so far: 13
+Done. Valid emails: 13. Output: verified_pepp_headless_03.csv
